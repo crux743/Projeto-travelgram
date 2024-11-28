@@ -4,6 +4,7 @@ footer {
     padding-block: 24px;
     gap: 24px;
     font: 14px/150% var(--font-family);
+    color: var(--text-color-secondary);
 }
 footer span:nth-child(1) {
     margin-right: auto;
